@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Youssef Ashraf 👋
 
-<!--
-**Youssef-Ashraf7/Youssef-Ashraf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* Computer Science student at Elsewedy University of Technology
+* Interested in Cybersecurity, Networking, and Software Development
+* Currently improving my programming and problem-solving skills
+* Looking to gain experience through projects and internships
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* Java
+* Object-Oriented Programming (OOP)
+* Networking
+* Cybersecurity Basics
+* Problem Solving
+* GUI Development
+
+## Projects
+
+* Sustainability Project
+* Hospital Management System
+* Task Reminder App
+
+## Certifications
+
+* Cisco Networking Basics
+* Getting Started with Cisco Packet Tracer
+
+## Connect With Me
+
+* LinkedIn: # Hi, I'm Youssef Ashraf 👋
+
+## About Me
+
+* Computer Science student at Elsewedy University of Technology
+* Interested in Cybersecurity, Networking, and Software Development
+* Currently improving my programming and problem-solving skills
+* Looking to gain experience through projects and internships
+
+## Skills
+
+* Python
+* Java
+* Object-Oriented Programming (OOP)
+* Networking
+* Cybersecurity Basics
+* Problem Solving
+* GUI Development
+
+## Projects
+
+* Sustainability Project
+* Hospital Management System
+* Task Reminder App
+
+## Certifications
+
+* Cisco Networking Basics
+* Getting Started with Cisco Packet Tracer
+
+## Connect With Me
+
+* LinkedIn: www.linkedin.com/in/
+Youssef-Ashraf-abdelmoneim
